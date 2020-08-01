@@ -20,7 +20,7 @@
 
 > Device intended for measuring humidity and temperature. By deviation from specified range of temperature or humidity it send sound signal.
 > Hardware design was making in Eagle CAD. Software was coding in IAR.
-> Device is using digital humidity and temperature sensor AM2302. For sound signal using EFM-475.
+> Device is using digital humidity and temperature sensor AM2302. For sound signal using EFM-475. For graphical interface using Nokia 5110 display.
 
 ## Donations (Optional)
 
